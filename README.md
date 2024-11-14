@@ -1,7 +1,16 @@
-# Tauri + React
+# Tauri + React + MUI Tree
 
-This template should help get you started developing with Tauri and React in Vite.
+## Tree Drag And Drop does not work on MacOS (tested on M2 Macbook Pro) 
 
-## Recommended IDE Setup
+To run 
+Use node 22 if on NVM
+```
+nvm use 22
+```
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+```
+npm install
+npm run tauri dev
+```
+
+Tested on Linux and works as expected there. Will be testing on Windows shortly. 
