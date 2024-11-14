@@ -1,6 +1,6 @@
 # Tauri + React + MUI Tree
 
-## Tree Drag And Drop does not work on MacOS (tested on M2 Macbook Pro) 
+## Tree Drag And Drop does not work on MacOS
 
 To run 
 
